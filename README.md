@@ -1,0 +1,2 @@
+# snake-game
+THIS IS SNAKE GAME IN PYTHON
